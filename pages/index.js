@@ -19,6 +19,9 @@ export default function Home({ allPostsData }) {
       <Head>
         <title>{siteTitle}</title>
       </Head>
+      <p>Hello, I am Sachin. I am RPA developer who helps business by automating business processes and saving FTE counts that does manual work on a particular business process.</p>
+      <p>I am a full-stack development enthusiast who likes to learn new tools and technologies to keep myself updated with the lastest tech trend.</p>
+      <p> I also do open-source contributions. You can connect with me on <a href="https://twitter.com/shatikankan">Twitter</a></p>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
         <ul className={utilStyles.list}>
