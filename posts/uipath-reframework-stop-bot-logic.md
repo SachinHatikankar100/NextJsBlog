@@ -7,13 +7,14 @@ hero_image_credit_text: "Annie Spratt"
 hero_image_credit_link: "https://unsplash.com/photos/MChSQHxGZrQ"
 ---
 
-In this blog, let's look at how can we stop the reframework bot.
+* In this blog, let's look at how can we stop the reframework bot.
 
-To achieve, we need to go inside the state "Get Transaction Data" which is the 2nd state in the reframework.
+* To achieve, we need to go inside the state "Get Transaction Data" which is the 2nd state in the reframework.
 
-We need to set the variable "ShouldStop" to true. This can be done using if condition
+* We need to set the variable "ShouldStop" to true. This can be done using if condition
 
-The if condition can have 2 values
-    1. First value should have a current time from the "Now" method
-    2. Second value should have the config value which mentions the time at what time bot should stop.
+* The if condition can have 2 values
+    -  1. First value should have a current time from the "Now" method.
+    -  2. Second value should have the config value which mentions the time at what time bot should stop.
+    -  3. Here is the working reframework template for your reference [Reframework Template](https://github.com/SachinHatikankar100/UiPathPractice/tree/main/Reframework-StopBot)
 
