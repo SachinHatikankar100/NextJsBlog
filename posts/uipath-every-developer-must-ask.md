@@ -7,9 +7,9 @@ hero_image_credit_text: "Annie Spratt"
 hero_image_credit_link: "https://unsplash.com/photos/MChSQHxGZrQ"
 ---
 
-- Let's look at the questions that a developer must ask or know before automating the process. Knowing the answers to the questions listed below helps in better understanding the current business circumstances and constraints. It also helps to design the bot if the impediments are something which cannot be mitigated and bot has to work under the known restrictions
+- Let's look at the questions that a developer must ask or know before automating the process. Knowing the answers to the questions listed below helps in better understanding the current business circumstances and constraints. It also helps to design the bot if the impediments are something which cannot be mitigated and bot has to work under the known restrictions. Obviously, the list is not exhaustive but is meant to give the idea.
 
-- Do multiple teams working on process or parts of the process is handled by one team and another part handled by another?
+- Do multiple teams work on the process or parts of the process is handled by one team and another part handled by another?
 - What are the roles of the users accessing the system?
 - Exceptions reports should sent to team,individual or a DL?
 - Could there be a scenario where we may have to restart the process if any of the steps within the end to end process fails?
