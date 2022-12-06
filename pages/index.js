@@ -38,7 +38,8 @@ export default function Home({ allPostsData }) {
       <p>
         {" "}
         I also do open-source contributions. You can connect with me on{" "}
-        <a href="https://twitter.com/shatikankan">Twitter</a>
+        <a href="https://twitter.com/shatikankan">Twitter</a> or{" "}
+        <a href="https://www.linkedin.com/in/sachin-h-b5673ab4/">LinkedIn</a>
       </p>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blogs</h2>
