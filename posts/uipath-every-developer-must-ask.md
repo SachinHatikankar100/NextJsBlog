@@ -11,13 +11,13 @@ hero_image_credit_link: "https://unsplash.com/photos/MChSQHxGZrQ"
 
 - Do multiple teams work on the process or parts of the process is handled by one team and another part handled by another?
 - What are the roles of the users accessing the system?
-- Exceptions reports should sent to team,individual or a DL?
+- Exceptions reports should sent to team,individual or a DL (Distribution List)?
 - Could there be a scenario where we may have to restart the process if any of the steps within the end to end process fails?
 - What are the steps to follow if there is a failure in the system during the process execution?
 - Are there any financial penalties associated, if there is a delay in executing the process and SLAs are not met?
 - Is the input data standard or unformatted input data is expected which requires cleaning before giving it as input?
 - Any specific formats for the reports/output/email notifications?
-- Would the bot be expected to run any queries on the db? If yes, what is the source of the queries?
+- Would the bot be expected to run any queries on the database? If yes, what is the source for the queries?
 - Are we connecting to any remote desktop/Citrix(which may require surface automation) or requires VPN/Token?
 - What is the ETA for the process being automated?
 - Do you face any delays in the page loading?

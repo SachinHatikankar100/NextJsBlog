@@ -6,6 +6,7 @@ hero_image_alt: "three people sitting in front of table laughing together"
 hero_image_credit_text: "Brooke Cagle"
 hero_image_credit_link: "https://unsplash.com/photos/g1Kr4Ozfoac"
 ---
+
 So what's that buzz about RPA or why it is a buzzing word nowadays? Let's have a look.
 
 Robotic Process Automation or RPA is an upcoming technology of "Process Automation" whose basis is to put the robot to work for all kinds of laborious manual work e.g. Data entry.
@@ -23,7 +24,6 @@ RPA is the application of the technology where people in an organisation will co
 Meaning, RPA will actually replicate the activities or the task performed by the humans in exactly the same way as a human would have interacted.
 
 Here you all would like to know more about "Which kind of firms will be benefited the most with RPA technology?"
-
 
 Any company with large number of employees who perform general knowledge work process which generally includes high-volume and highly transactional processes can boost their capabilities by saving a lot of time and money by making use of RPA softwares.It can also be interpreted as RPA can automate all low-level clerical tasks performed by humans.Also to add further, RPA can automate all the clerical processes but not all human activities.
 
@@ -63,20 +63,18 @@ One of the best part is that once trained the virtual workers are permanent and 
 With all of the above information given you might want to get started with RPA right now. So to get started with RPA you will need RPA tools. There are many tools out there providing great features in RPA space. But the one tool which any one can get started easily is UiPath.
 
 Reasons to get started with UiPath:
-1.   It is open source.
 
-2.   It comes with a Community Edition which is free to use and can be used just after filling a simple registration form.
+1.  It has UiPath community forum already with MVP answering your questions or doubts if any.
 
-3.   It also contains free tutorial videos(UiPath Academy videos) which will explain you all the basics to get started with RPA with UiPath.
+2.  It comes with a Community Edition which is free to use and can be used just after filling a simple registration form.
 
-
+3.  It also contains free tutorial videos(UiPath Academy videos) which will explain you all the basics to get started with RPA with UiPath.
 
 Sample Use Case :
-1.   Suppose you are browsing for some product on e-commerce e.g., watch and you want an entire list of that product present on that website along with the cost for a quick comparison.But as getting a list will become a tedious manual task, UiPath can come here for rescue. With the help of UiPath capabilities you can automate this task and get a list of all the specified items in a text/excel/csv file format.
 
-2.   Other example could be there is a financial firm whose business depends stock market. They need to check the stock market every time by manually visiting in the website. Even here , UiPath can help you out. You can just automate the this part by UiPath and also put an additional capability of getting the stock market details in mail every hour or every half an hour to every stakeholder.
+1.  Suppose you are browsing for some product on e-commerce e.g., watch and you want an entire list of that product present on that website along with the cost for a quick comparison.But as getting a list will become a tedious manual task, UiPath can come here for rescue. With the help of UiPath capabilities you can automate this task and get a list of all the specified items in a text/excel/csv file format.
 
-
+2.  Other example could be there is a financial firm whose business depends stock market. They need to check the stock market every time by manually visiting in the website. Even here , UiPath can help you out. You can just automate this part by UiPath and also put an additional capability of getting the stock market details in mail every hour or every half an hour to every stakeholder.
 
 Important Links:
 
@@ -85,4 +83,3 @@ UiPath : https://www.uipath.com
 Community Edition download : https://www.uipath.com/community
 
 Academy Videos : https://academy.uipath.com/lms
-
