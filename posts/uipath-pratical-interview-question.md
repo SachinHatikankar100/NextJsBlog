@@ -7,4 +7,4 @@ hero_image_credit_text: "Annie Spratt"
 hero_image_credit_link: "https://unsplash.com/photos/MChSQHxGZrQ"
 ---
 
-- image.png
+- ![alt text](C:\Users\Sachin\NextJsBlog\public\images\profile.jpg "Input Format")
