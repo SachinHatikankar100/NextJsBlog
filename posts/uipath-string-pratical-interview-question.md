@@ -9,38 +9,42 @@ hero_image_credit_link: "https://unsplash.com/photos/MChSQHxGZrQ"
 
 - Compare the 2 arguments str1 and str2 ignoring the order of the companies. If all the companies in the str1 exist in str2 and all the companies in str2 exists in str1, return "Matched" otherwise return the new companies in str2 and the removed companies in str1. The comparison is not case sensitive
 
-- Input String set 1
-  "Wealth
-  Financials Services
-  "
+- **_Input String test case 1_**
 
-"Wealth
-Taxation
-Money
-"
+-str1
+"Wealth"
+"Financials Services"
 
-- Input String set 2
-  "Wealth
-  Taxation
-  "
+-str2
+"Wealth"
+"Taxation"
+"Money"
 
-"Taxation
-Wealth
-"
+- **_Input String test case 2_**
 
-- Required Output 1
-  New: Taxation,Money
-  Removed: Financials Services
+-str1
+"Wealth"
+"Taxation"
 
-- Required Output 2
-  Matched
+-str2
+"Taxation"
+"Wealth"
 
-- Solution
+- **_Required Output 1_**
 
-Use "Enviornment.Newline" to get the data in an array format.
+New: Taxation,Money
+Removed: Financials Services
+
+- **_Required Output 2_**
+
+Matched
+
+- **_Solution:_**
+
+Use **_Enviornment.Newline_** to get the data in an array format.
 Then use the "Except" method to get the output.
 
-- What does except method does ?
+- What does **_except_** method does ?
   The set difference of two sets is defined as the members of the first set that don't appear in the second set.
   This method returns those elements in first that don't appear in second. It doesn't return those elements in second that don't appear in first. Only unique elements are returned.
 

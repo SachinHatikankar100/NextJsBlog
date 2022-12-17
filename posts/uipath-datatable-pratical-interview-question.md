@@ -19,7 +19,7 @@ hero_image_credit_link: "https://unsplash.com/photos/MChSQHxGZrQ"
 - Required Output
   ![alt text](/images/RequiredDatatableOutput.jpg "Datatable Output Format")
 
-- Solution
+- **_Solution:_**
 
 One of the approach to solve this in UiPath is to add one column manually in the Employee Sheet "departmentname" which will save all the appropriate name according to the "departmentid"
 
