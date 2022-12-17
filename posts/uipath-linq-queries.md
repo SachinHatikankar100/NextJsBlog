@@ -25,7 +25,7 @@ hero_image_credit_link: "https://unsplash.com/photos/MChSQHxGZrQ"
 
 [Refer frequently asked linq queries here ](https://github.com/SachinHatikankar100/UiPathPractice)
 
-Post reference:
+**_Post reference:_**
 
 - https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/
 - https://www.tutorialsteacher.com/linq/what-is-linq
