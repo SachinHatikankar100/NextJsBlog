@@ -9,7 +9,7 @@ hero_image_credit_link: "https://unsplash.com/photos/MChSQHxGZrQ"
 
 **_UiPath Community 2023.4 Stable Release_**
 
-Wondering what are the features one must know about the stable release. Have a look at them below. Below features are not comprehensive but do point what the highlights of the release.
+Wondering what are the features one must know about the stable release. Have a look at them below. Below features are not comprehensive but do point out the highlights of the release.
 
 1. Search Activity:
 
