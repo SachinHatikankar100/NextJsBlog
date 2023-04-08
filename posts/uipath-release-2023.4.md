@@ -11,7 +11,7 @@ hero_image_credit_link: "https://unsplash.com/photos/MChSQHxGZrQ"
 
 Wondering what are the features one must know about the stable release. Have a look at them below. Below features are not comprehensive but do point out the highlights of the release.
 
-1. Search Activity:
+1. **Search Activity :**
 
 - We will be able to search the activities even if the package is not installed with version 2023.4 updates
 
@@ -20,17 +20,17 @@ Wondering what are the features one must know about the stable release. Have a l
   - This feature is only available for cross platform projects
   - Note: Select the "Cross-platform" option when creating a new project in the Compatibility field
 
-2. Show Properties Panel
+2. **Show Properties Panel :**
 
 - It is now available for all the majorly used activities
 
-3. Data Manager Sorting Support
+3. **Data Manager Sorting Support :**
 
 - Data manager is a single place to manage all your resources namely Variable, Arguments, Connection etc
 
-- To restore the sorting to an alphabetic order you can simply click on the sort button in the Data Manager (the alphabetuc order applies to all resources in the Data Manager.)
+- To restore the sorting to an alphabetic order you can simply click on the sort button in the Data Manager (the alphabetic order applies to all resources in the Data Manager.)
 
-4. Individual Refresh
+4. **Individual Refresh :**
 
 - Using the refresh button in the Data manager now allows each category to be refreshed individually instead of blocking the interface.
 
@@ -38,7 +38,7 @@ Wondering what are the features one must know about the stable release. Have a l
 
 - This should make the refresh faster and the interface should become more usable.
 
-5. Save job execution recording
+5. **Save job execution recording :**
 
 - When job throws exception during the bot run. Bot will take screenshot or record the job execution
 
@@ -55,13 +55,13 @@ Wondering what are the features one must know about the stable release. Have a l
 
 - When we click on the i button we get the all previously available data along with screenshot. It can also be a video. For video, we have further 2 option we can record and store only failed jobs or we can record all jobs
 
-6. Favorites Section - Assistant
+6. **Favorites Section - Assistant :**
 
 - Group the processes which are your favorites.
 - To add the process to the favorites we have to right click on the process and select the "Add to favorites" option. This will add the process under the Favorites section of the UiPath assistant
 - To remove the process we can right click on the process in the favorites section and select "Remove from group"
 
-7. Live Stream support over Remote Debugging
+7. **Live Stream support over Remote Debugging :**
 
 - Incase any unattended bot is facing any exception like unexpected pop up then we can actually control the execution without actually logging in the unattended machine.
 
@@ -71,6 +71,6 @@ Wondering what are the features one must know about the stable release. Have a l
 
 - To enable this option we need to installed tiedvnz exe installed in the required machine.
 
-**_Reference:_**
+**Reference :**
 
 - Tutorials by Mukesh Kala
