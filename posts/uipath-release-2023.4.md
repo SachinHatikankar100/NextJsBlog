@@ -3,7 +3,7 @@ title: "UiPath Community 2023.4 Stable Release"
 date: "2023-04-09"
 hero_image: "./annie-spratt-MChSQHxGZrQ-unsplash.jpg"
 hero_image_alt: "men sitting in front of their laptop computer"
-hero_image_credit_text: "Annie Spratt"
+hero_image_credit_text: "Annie Spratt No image"
 hero_image_credit_link: "https://unsplash.com/photos/MChSQHxGZrQ"
 ---
 
