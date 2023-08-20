@@ -9,7 +9,7 @@ hero_image_credit_link: "https://unsplash.com/photos/MChSQHxGZrQ"
 
 **Turbotic - An Overview**
 
-- We can orchestrator across the RPA tools
+- We can orchestrate across the RPA tools
 - Optimize the Intelligent automation journey from the stages via Operations, build, discovery, ideation, value tracking
 - Turbotic integrates via APIs of the RPA tools to enable support system to drive the Enterprise automation implementation and operation
 - AI module of the turbotic brings intelligence to system through predictions, optimizations and recommendations.
